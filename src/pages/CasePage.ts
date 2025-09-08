@@ -9,7 +9,7 @@ export default class CasePage {
   private readonly caseTypeDropdownLocator = "Type - Current Selection: --";
   private readonly saveButtonLocator = "Save";
   private readonly contactFullNameLabelLocator = "sfa-output-name-with-hierarchy-icon-wrapper";
-//samir
+//samir munde
  
 
   constructor(private page: Page) {}
